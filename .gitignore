@@ -1,0 +1,16 @@
+# Big model/data folders
+glove.6B.50d/
+nltk_data/
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Zips (optional, but good)
+*.zip
